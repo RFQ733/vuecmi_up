@@ -1,0 +1,27 @@
+{
+    "title": {
+        "text": "miRNA numbers"
+    },
+    "tooltip": {
+        "trigger": "item",
+        "formatter": "{a} <br/>{b} : {c} ({d}%)"
+    },
+    "series": [
+    {
+        "name": "miRNA",
+        "type": "pie",
+        "radius": "50%",
+        "data": [
+            { "value": 2231223, "name": "human" },
+            { "value": 33212, "name": "mouse" },
+            { "value": 213214, "name": "rat" },
+            { "value": 131245, "name": "zebrafish" },
+            { "value": 154448, "name": "other" }
+        ]
+    }],
+    "toolbox": {
+        "feature": {
+            "saveAsImage": {}
+        }
+    }
+}

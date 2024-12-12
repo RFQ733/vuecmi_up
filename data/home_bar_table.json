@@ -1,0 +1,28 @@
+{
+    "title": {
+        "text": "CircRNA numbers"
+    },
+    "tooltip": {
+        "trigger": "item",
+        "formatter": "{a} <br/>{b} : {c} ({d}%)"
+    },
+    "series": [
+    {
+        "name": "circRNA",
+        "type": "pie",
+        "radius": "50%",
+        "data": [
+            { "value": 335, "name": "others" },
+            { "value": 310, "name": "mouse" },
+            { "value": 234, "name": "rat" },
+            { "value": 135, "name": "zebrafish" },
+            { "value": 1548, "name": "human" }
+        ]
+    }],
+    "toolbox":{
+        "feature": {
+            "saveAsImage": {}
+        }
+    }
+   
+}

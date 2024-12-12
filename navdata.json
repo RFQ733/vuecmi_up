@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Bos taurus",
+    "groups": [
+      {
+        "id": 11,
+        "title": "miRNA",
+        "items": [{"title":"miR-15a","id":"6"},{"title":"miR-15b","id":"7"},{"title":"miR-16a","id":"8"},{"title":"miR-16b","id":"9"},{"title":"miR-2400","id":"10"},{"title":"miR-128","id":"11"},{"title":"miR-107","id":"75"},{"title":"miR-107-3p","id":"775"},{"title":"hsa-miR-133a1","id":"776"},{"title":"miR-133a","id":"777"},{"title":"hsa-miR-378a-5p","id":"778"}]
+      },
+      {
+        "id": 12,
+        "title": "disease",
+        "items": [
+          {
+            "id": 121,
+            "title": "cancer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Anas platyrhynchos",
+    "groups": [
+      {
+        "id": 21,
+        "title": "miRNA",
+        "items": [{"title":"miR-let-7g-6p","id":"13"}]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Capra hircus",
+    "groups": [
+      {
+        "id": 31,
+        "title": "miRNA",
+        "items": [{"title":"miR-148a-3p","id":"412"},{"title":"miR-148b-3p","id":"413"},{"title":"miR-26a","id":"551"}]
+      }
+    ]
+  }
+]

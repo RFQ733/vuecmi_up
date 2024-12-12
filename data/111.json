@@ -1,0 +1,24 @@
+
+[
+    {
+        "miRNA": "miRNA_111",
+        "circRNA": "circRNA_111",
+        "disease": "cancer",
+        "description": "This is a description of miRNA_111 and cancer",
+        "PMID_link": "https://pubmed.ncbi.nlm.nih.gov/123456",
+        "pumd_id": "123456",
+        "id":111
+
+    },
+    {
+        "miRNA": "miRNA_111",
+        "circRNA": "circRNA_111",
+        "disease": "HCC",
+        "description": "This is a description of miRNA_112 and HCC",
+        "PMID_link": "https://pubmed.ncbi.nlm.nih.gov/1234526",
+        "pumd_id": "1234526",
+        "id":233
+
+    }
+
+]

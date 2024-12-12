@@ -1,0 +1,13 @@
+{
+	"total": 2767,
+	"circrna_count": 1582,
+	"mirna_count": 1058,
+	"organism_count": 13,
+	"disease_count": 183,
+	"mrna_count": 11,
+	"gene_count": 330,
+	"virus_name_count": 3,
+	"tissue_cells_count": 937,
+	"experiment_count": 885,
+	"num_count": 2767
+}
